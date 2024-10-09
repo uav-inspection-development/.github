@@ -19,9 +19,13 @@ Our community is the cornerstone of our success. We believe in fostering a colla
 We're on a thrilling journey with UAV-Detection, and we invite you to be a part of it. Whether you're a solar energy enthusiast, a potential investor, or someone curious about renewable energy, join us in shaping the future of solar panel detection. 💪
 
 📬 **Get in Touch:**
-Have questions about UAV Inspection or want to know more? Reach out to us at [lrt2436559745@gmail.com](mailto:lrt2436559745@gmail.com) or visit our website [docs.phillweston.com](https://phillweston.com) and whitepaper [docs.phillweston.com](https://docs.phillweston.com). We're always here to help and collaborate.
+Have questions about UAV Inspection or want to know more? Reach out to us at [lrt2436559745@gmail.com](mailto:lrt2436559745@gmail.com) or visit our website [phillweston.com](https://phillweston.com) and blog [docs.phillweston.com](https://docs.phillweston.com). We're always here to help and collaborate.
 
 ## Repositories
+
+### [Cloud-API-Doc](https://github.com/uav-inspection-development/Cloud-API-Doc)
+**Language**: Markdown
+This repository contains the documentation for the Cloud API used in our UAV solar panel detection system. It is ideal for developers who want to integrate our platform with their applications.
 
 ### [Cloud-API-Demo-Web](https://github.com/uav-inspection-development/Cloud-API-Demo-Web) 🎮
 **Language**: Vue
@@ -39,10 +43,15 @@ This repository focuses on the automatic detection of faults in photovoltaic far
 **Language**: Python
 This repository contains the code for visual inspection of photovoltaic panels using UAVs. It is ideal for those who want to implement and test vision-based detection strategies.
 
-### [psdk-el-camera](https://github.com/uav-inspection-development/psdk-el-camera) 💻
+### (Not Tested) [psdk-el-camera](https://github.com/uav-inspection-development/psdk-el-camera) 💻
 **Language**: C
 This repository contains the code for integrating an electroluminescence camera with UAVs for solar panel inspection. It is ideal for those who want to enhance their UAVs with advanced imaging capabilities.
 
-### [DJI_MSDK_Development](https://github.com/uav-inspection-development/DJI_MSDK_Development) 💻
+### (Deprecated) [DJI_MSDK_Development](https://github.com/uav-inspection-development/DJI_MSDK_Development) 💻
 **Language**: Java
 This repository contains the development code for the DJI Mobile SDK, tailored for UAV solar panel detection applications. It is ideal for those who want to leverage DJI's SDK for custom UAV solutions.
+
+## Documentation
+
+### [【金山文档 | WPS云文档】 光伏智能巡检软件技术要求](https://kdocs.cn/l/cn7lctrG4jsp)
+This document outlines the technical requirements for the intelligent inspection software for photovoltaic panels. It provides insights into the software's functionalities and specifications.
