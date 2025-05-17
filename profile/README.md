@@ -25,18 +25,22 @@ Have questions about UAV Inspection or want to know more? Reach out to us at [lr
 
 ### [YoloV11-Object-Detection-for-DJI-Cloud-API](https://github.com/uav-inspection-development/YoloV11-Object-Detection-for-DJI-Cloud-API)
 **Language**: Python
+
 This repository contains the detection for the visible, thermal, and electroluminance detection used in our UAV solar panel detection system based on the YoloV11.
 
 ### [Automatic-Faults-Detection-of-Photovoltaic-Farms-using-Thermal-Images](https://github.com/uav-inspection-development/Automatic-Faults-Detection-of-Photovoltaic-Farms-using-Thermal-Images) 🕹
 **Language**: Python
+
 This repository focuses on the automatic detection of faults in photovoltaic farms using thermal images. It is suited for those exploring advanced techniques in UAV-based solar panel inspection.
 
 ### [pv-vision](https://github.com/uav-inspection-development/pv-vision) 💻
 **Language**: Python
+
 This repository contains the code for visual inspection of photovoltaic panels using UAVs. It is ideal for those who want to implement and test vision-based detection strategies.
 
 ### (Not Tested) [psdk-el-camera](https://github.com/uav-inspection-development/psdk-el-camera) 💻
 **Language**: C
+
 This repository contains the code for integrating an electroluminescence camera with UAVs for solar panel inspection. It is ideal for those who want to enhance their UAVs with advanced imaging capabilities.
 
 ### (Deprecated) [DJI_MSDK_Development](https://github.com/uav-inspection-development/DJI_MSDK_Development) 💻
