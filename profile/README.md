@@ -23,17 +23,9 @@ Have questions about UAV Inspection or want to know more? Reach out to us at [lr
 
 ## Repositories
 
-### [Cloud-API-Doc](https://github.com/uav-inspection-development/Cloud-API-Doc)
-**Language**: Markdown
-This repository contains the documentation for the Cloud API used in our UAV solar panel detection system. It is ideal for developers who want to integrate our platform with their applications.
-
-### [Cloud-API-Demo-Web](https://github.com/uav-inspection-development/Cloud-API-Demo-Web) 🎮
-**Language**: Vue
-This repository contains the main control terminal for our UAV solar panel detection system, implemented with a Proportional-Integral-Derivative (PID) control approach. It is designed for those who are interested in traditional control systems in UAVs.
-
-### [DJI-Cloud-API-Demo](https://github.com/uav-inspection-development/DJI-Cloud-API-Demo) 📱
-**Language**: Java
-This is the Android application repository for controlling and monitoring our UAV solar panel detection system. This app is perfect for on-the-go adjustments and real-time data monitoring.
+### [YoloV11-Object-Detection-for-DJI-Cloud-API](https://github.com/uav-inspection-development/YoloV11-Object-Detection-for-DJI-Cloud-API)
+**Language**: Python
+This repository contains the detection for the visible, thermal, and electroluminance detection used in our UAV solar panel detection system based on the YoloV11.
 
 ### [Automatic-Faults-Detection-of-Photovoltaic-Farms-using-Thermal-Images](https://github.com/uav-inspection-development/Automatic-Faults-Detection-of-Photovoltaic-Farms-using-Thermal-Images) 🕹
 **Language**: Python
